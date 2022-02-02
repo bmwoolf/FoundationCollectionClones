@@ -3,7 +3,7 @@ pragma solidity ^0.8.6;
 
 import "ds-test/test.sol";
 
-import "./Foundationcollectionclones.sol";
+import "./CloneFactory.sol";
 
 contract FoundationcollectionclonesTest is DSTest {
     Foundationcollectionclones foundationcollectionclones;
