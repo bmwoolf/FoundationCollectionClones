@@ -2,9 +2,9 @@
 
 pragma solidity ^0.8.0;
 
-import "@openzeppelin/proxy/Clones.sol";
-import "@openzeppelin/utils/Address.sol";
-import "@openzeppelin/utils/Strings.sol";
+import "@openzeppelin/contracts/proxy/Clones.sol";
+import "@openzeppelin/contracts/utils/Address.sol";
+import "@openzeppelin/contracts/utils/Strings.sol";
 
 import "./interfaces/ICollectionContractInitializer.sol";
 import "./interfaces/IRoles.sol";
